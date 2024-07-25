@@ -29,7 +29,7 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#score-away,
+#score-home,
 #score-guest,
 p {
     font-family: cursedTimer;
@@ -41,7 +41,7 @@ p {
     align-items: end;
     color: #F94F6D;
     background-color: #080001;
-    width: 125px;
+    width: 150px;
     height: 125px;
     font-size: 3rem;
     padding: 10px;
